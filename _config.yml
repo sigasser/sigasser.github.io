@@ -1,5 +1,0 @@
-name: Sg3.io, Anleitungen, Projekte und Gedanken zur Digitalisierung.
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-
-theme: jekyll-theme-tactile
