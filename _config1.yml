@@ -1,14 +1,25 @@
-title:             Clean Blog
-email:             your-email@example.com
+name: 
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-tactile
+
+
+
+
+
+
+
+title:             Sg3.io, Anleitungen, Projekte und Gedanken zur Digitalisierung.
+email:             me@simongasser.com
 description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+author:            sigasser
+baseurl:           "/"
+url:               "https://sigasser.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  sigasser
+github_username:   sigasser
 
 # Build settings
 markdown:          kramdown
