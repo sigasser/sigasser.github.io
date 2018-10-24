@@ -10,9 +10,9 @@ theme: jekyll-theme-tactile
 
 
 
-title:             Sg3.ch, Anleitungen, Projekte und Gedanken zur Digitalisierung.
+title:             Sg3.ch, 
 email:             me@simongasser.com
-description:       A Blog Theme by Start Bootstrap
+description:       Anleitungen, Projekte und Gedanken zur Digitalisierung.
 author:            sigasser
 baseurl:           "/"
 url:               "https://sigasser.github.io"
