@@ -36,9 +36,8 @@ Hersteller: [Apple](#apple), [Samsung](#samsung)
 [Iphone X](#iphone-x), [Iphone 8 Plus](#iphone-8-plus), [Iphone 8](#iphone-8)
 
 ### Iphone X
-Defekt | Preis |
----|---|
-Display | 490.-|
+
+| Display | 490.- |
 
 ### Iphone 8 Plus
 Defekt | Preis
