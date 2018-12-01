@@ -3,6 +3,7 @@ layout: page
 title: Smartphone und Tabletreparaturen
 description: Wir reparieren ihr Gerät
 background: '/img/handy.jpg'
+permalink: /handy
 form: true
 
 
