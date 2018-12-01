@@ -2,8 +2,7 @@
 layout: page
 title: Über mich
 ---
-## {{ page.title }}
-	
+
   Ich bin Sg.
   Seit 1995 intressieren mich PC's, später Handhelds, ja Palm, dann den HTC Hero, das erste Android Smartphone, das in der Schweiz erhältlich war.
   
