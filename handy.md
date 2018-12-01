@@ -5,7 +5,7 @@ description: Wir reparieren ihr Gerät
 background: '/img/handy.jpg'
 permalink: /handy
 form: true
-
+---
 
 ## Qualität muss nicht teuer sein.
 
