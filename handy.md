@@ -40,19 +40,17 @@ Hersteller: [Apple](#apple), [Samsung](#samsung)
 | Display | 490.- |
 
 ### Iphone 8 Plus
-Defekt | Preis
----|---
-Display | 255.-
+
+|Display | 255.-|
 
 ### Iphone 8
-Defekt | Preis
----|---
-Display | 235.-
-Akkutausch | 50.-
-Ladebuchse | 65.-
-Mikrofon | 35.-
-Homebutton | 35.-
-Mute, Lautstärke Knöpfe | 60.-
+
+|Display | 235.-|
+|Akkutausch | 50.-|
+|Ladebuchse | 65.-|
+|Mikrofon | 35.-|
+|Homebutton | 35.-|
+|Mute, Lautstärke Knöpfe | 60.-|
 
 Handy | Display | Akkutausch| Ladebuchse | Mickrof, Homebutton | Mute, Volume Knöpfe
 ---|---|---|---|---|---
