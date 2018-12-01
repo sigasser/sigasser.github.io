@@ -29,9 +29,31 @@ Zu jeder Reparatur gehört immer auch ein Rundumservice des Gerätes
 ## Preise
 
 Alle Preise beinhalten das Material und die Reparatur.
-[Apple](#apple) [Samsung](#samsung)
+
+Hersteller: [Apple](#apple), [Samsung](#samsung)
 
 ## Apple
+[Iphone X](#iphone-x), [Iphone 8 Plus](#iphone-8-plus), [Iphone 8](#iphone-8)
+
+### Iphone X
+Defekt | Preis
+---|---
+Display | 490.-
+
+### Iphone 8 Plus
+Defekt | Preis
+---|---
+Display | 255.-
+
+### Iphone 8
+Defekt | Preis
+---|---
+Display | 235.-
+Akkutausch | 50.-
+Ladebuchse | 65.-
+Mikrofon | 35.-
+Homebutton | 35.-
+Mute, Lautstärke Knöpfe | 60.-
 
 Handy | Display | Akkutausch| Ladebuchse | Mickrof, Homebutton | Mute, Volume Knöpfe
 ---|---|---|---|---|---
