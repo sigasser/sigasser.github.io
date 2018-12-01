@@ -42,13 +42,18 @@ Iphone 7 Plus | 230.--|50.--|65.--|35.--|60.--
 
 Tablet |Touchscreen|Display|Homebutton|Ladebuchse
 ---|---|---|---|---
-Ipad Pro 12.9"|-|-||
-Ipad Pro 9.9"|-|-||
-Ipad Air 2|auf Anfrage|auf Anfrage||
-Ipad Air |110.--|-|85.--|85.--
+Ipad Pro 12.9" | - | -| |
+Ipad Pro 9.9" | - | - | |
+Ipad Air 2 | auf Anfrage | auf Anfrage ||
+Ipad Air | 110.-- | - | 85.-- | 85.--
 
 ## Samsung
 
 Handy |Display|Akkutausch
 ---|---|---
 Galaxy S5|185.--|25.--
+
+## Panzerglasfolien für diverse Handys und Tablets
+
+Handys | 15.-- - 20.--
+Tablets | 20.-- - 25.--
