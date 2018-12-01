@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Smartphone & Tabletreparaturen
+title: Smartphone und Tabletreparaturen
 description: Wir reparieren ihr Gerät
 background: '/img/handy.jpg'
 form: true
----
+
 
 ## Qualität muss nicht teuer sein.
 
