@@ -37,6 +37,7 @@ Alle Preise beinhalten Material und Reparatur.
 ## Apple
 [Iphone X](#iphone-x), [Iphone 8 Plus](#iphone-8-plus), [Iphone 8](#iphone-8)
 
+
 ### Iphone X
 
  <table style="width:70%">
@@ -50,6 +51,7 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
 </table> 
 
+
 ### Iphone 8 Plus
 <table style="width:70%">
   <tr>
@@ -61,6 +63,8 @@ Alle Preise beinhalten Material und Reparatur.
     <td>255.-</td>
     </tr>
 </table>
+
+
 ### Iphone 8
 
 <table style="width:70%">
@@ -94,6 +98,8 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
 </table>
 
+
+
 Handy | Display | Akkutausch| Ladebuchse | Mickrof, Homebutton | Mute, Volume Knöpfe
 ---|---|---|---|---|---
 Iphone X |490.--||||
@@ -108,8 +114,10 @@ Ipad Pro 9.9" | - | - | |
 Ipad Air 2 | auf Anfrage | auf Anfrage ||
 Ipad Air | 110.-- | - | 85.-- | 85.--
 
+
 ## Samsung
 [Galaxy S5](#galaxy-s5)
+
 
 ### Galaxy S5
 <table style="width:70%">
