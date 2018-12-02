@@ -37,12 +37,12 @@ Hersteller: [Apple](#apple), [Samsung](#samsung)
 
 ### Iphone X
 |---
-| Display | 490.- |
-|:-|-:|
+| Display | 490.- 
+|---
 ### Iphone 8 Plus
 |---
 |Display | 255.-|
-|:-|-:|
+|---
 ### Iphone 8
 
 |Display | 235.-|
