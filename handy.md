@@ -73,8 +73,6 @@ Handy |Display|Akkutausch
 Galaxy S5|185.--|25.--
 
 ## Panzerglasfolien für diverse Handys und Tablets
-
-* Handys
-  * 15.-- bis 20.--
-* Tablets
-  * 20.-- bis 25.--
+|---
+|Handys | 15.-- bis 20.--|
+|Tablets | 20.-- bis 25.--|
