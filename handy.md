@@ -37,6 +37,17 @@ Hersteller: [Apple](#apple), [Samsung](#samsung)
 
 ### Iphone X
 
+ <table style="width:100%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>490.-</td>
+    </tr>
+</table> 
+
 | Defekt     | Preis
 |:-|-:
 | Display | 490.- 
