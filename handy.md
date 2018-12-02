@@ -28,16 +28,18 @@ Zu jeder Reparatur gehört immer auch ein Rundumservice des Gerätes
 
 ## Preise
 
-Alle Preise beinhalten das Material und die Reparatur.
+Alle Preise beinhalten Material und Reparatur.
 
-Hersteller: [Apple](#apple), [Samsung](#samsung)
+**Hersteller**: [Apple](#apple), [Samsung](#samsung)
+
+**Allgemein**: [Panzerglasfolien](#panzerglasfolien)
 
 ## Apple
 [Iphone X](#iphone-x), [Iphone 8 Plus](#iphone-8-plus), [Iphone 8](#iphone-8)
 
 ### Iphone X
 
- <table style="width:100%">
+ <table style="width:70%">
   <tr>
     <th>Defekt</th>
     <th>Preis</th>
@@ -48,23 +50,49 @@ Hersteller: [Apple](#apple), [Samsung](#samsung)
     </tr>
 </table> 
 
-| Defekt     | Preis
-|:-|-:
-| Display | 490.- 
-|---
-
 ### Iphone 8 Plus
-|---
-|Display___ | 255.-|
-|---
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>255.-</td>
+    </tr>
+</table>
 ### Iphone 8
 
-|Display | 235.-|
-|Akkutausch | 50.-|
-|Ladebuchse | 65.-|
-|Mikrofon | 35.-|
-|Homebutton | 35.-|
-|Mute, Lautstärke Knöpfe | 60.-|
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>235.-</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>50.-</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse</td>
+    <td>65.-</td>
+    </tr>
+ <tr>
+    <td>Mikrofon</td>
+    <td>35.-</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35.-</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60.-</td>
+    </tr>
+</table>
 
 Handy | Display | Akkutausch| Ladebuchse | Mickrof, Homebutton | Mute, Volume Knöpfe
 ---|---|---|---|---|---
@@ -81,6 +109,23 @@ Ipad Air 2 | auf Anfrage | auf Anfrage ||
 Ipad Air | 110.-- | - | 85.-- | 85.--
 
 ## Samsung
+[Galaxy S5](#galaxy-s5)
+
+### Galaxy S5
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>185.-</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>25.-</td>
+    </tr>
+</table>
 
 Handy |Display|Akkutausch
 ---|---|---
