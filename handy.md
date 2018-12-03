@@ -35,10 +35,10 @@ Alle Preise beinhalten Material und Reparatur.
 **Allgemein**: [Panzerglasfolien](#panzerglasfolien)
 
 ## Apple
-[Iphone X](#iphone-x), [Iphone 8 Plus](#iphone-8-plus), [Iphone 8](#iphone-8)
+[iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
 
 
-### Iphone X
+### iPhone X
 
  <table style="width:70%">
   <tr>
@@ -51,8 +51,11 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
 </table> 
 
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
 
-### Iphone 8 Plus
+<hr />
+### iPhone 8 Plus
+
 <table style="width:70%">
   <tr>
     <th>Defekt</th>
@@ -65,7 +68,7 @@ Alle Preise beinhalten Material und Reparatur.
 </table>
 
 
-### Iphone 8
+### iPhone 8
 
 <table style="width:70%">
   <tr>
@@ -99,13 +102,41 @@ Alle Preise beinhalten Material und Reparatur.
 </table>
 
 
+### iPhone 7 Plus
 
-Handy | Display | Akkutausch| Ladebuchse | Mickrof, Homebutton | Mute, Volume Knöpfe
----|---|---|---|---|---
-Iphone X |490.--||||
-Iphone 8 Plus |255.--||||
-Iphone 8 |235.--|50.--|65.--|35.--| 60.--
-Iphone 7 Plus | 230.--|50.--|65.--|35.--|60.--
+<table style="width:70%">
+  <tr>
+    <th>Defekt</th>
+    <th>Preis</th>
+     </tr>
+  <tr>
+    <td>Display</td>
+    <td>230.-</td>
+    </tr>
+ <tr>
+    <td>Akkutausch</td>
+    <td>50.-</td>
+    </tr>
+ <tr>
+    <td>Ladebuchse</td>
+    <td>65.-</td>
+    </tr>
+ <tr>
+    <td>Mikrofon</td>
+    <td>35.-</td>
+    </tr>
+ <tr>
+    <td>Homebutton</td>
+    <td>35.-</td>
+    </tr>
+ <tr>
+    <td>Mute, Lautstärke Knöpfe</td>
+    <td>60.-</td>
+    </tr>
+</table>
+
+
+
 
 Tablet |Touchscreen|Display|Homebutton|Ladebuchse
 ---|---|---|---|---
