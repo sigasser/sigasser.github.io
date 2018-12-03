@@ -35,7 +35,7 @@ Alle Preise beinhalten Material und Reparatur.
 ## Apple
 **Smartphones**: [iPhone X](#iphone-x), [iPhone 8 Plus](#iphone-8-plus), [iPhone 8](#iphone-8), [iPhone 7 Plus](#iphone-7-plus)
 
-**Tablets**: [iPad Pro 12.9](#ipad-pro-12.9%22&atb), [iPad Pro 9.9](#ipad-pro-9.9%22&atb), [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
+**Tablets**: [iPad Pro 12.9](#ipad-pro-12.9), [iPad Pro 9.9](#ipad-pro-9.9), [iPad Air 2](#ipad-air-2), [iPad Air](#ipad-air), 
 
 <div style="text-align: right"><i><p><a href="#top">Zurück zur Übersicht ↑</a></p></i></div>
 
