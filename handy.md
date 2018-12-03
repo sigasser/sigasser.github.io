@@ -54,6 +54,7 @@ Alle Preise beinhalten Material und Reparatur.
 <div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
 
 <hr />
+
 ### iPhone 8 Plus
 
 <table style="width:70%">
@@ -67,6 +68,9 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
 </table>
 
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
 
 ### iPhone 8
 
@@ -101,6 +105,9 @@ Alle Preise beinhalten Material und Reparatur.
     </tr>
 </table>
 
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
 
 ### iPhone 7 Plus
 
@@ -136,7 +143,9 @@ Alle Preise beinhalten Material und Reparatur.
 </table>
 
 
+<div style="text-align: right"><i><p><a href="#apple">Zurück zur Übersicht ↑</a></p></i></div>
 
+<hr />
 
 Tablet |Touchscreen|Display|Homebutton|Ladebuchse
 ---|---|---|---|---
@@ -170,8 +179,16 @@ Handy |Display|Akkutausch
 ---|---|---
 Galaxy S5|185.--|25.--
 
+<div style="text-align: right"><i><p><a href="#samsung">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
+
 ## Panzerglasfolien für diverse Handys und Tablets
 |---
 |Handys | 15.-- bis 20.--
 |Tablets | 20.-- bis 25.--
 |---
+
+<div style="text-align: right"><i><p><a href="#top">Zurück zur Übersicht ↑</a></p></i></div>
+
+<hr />
