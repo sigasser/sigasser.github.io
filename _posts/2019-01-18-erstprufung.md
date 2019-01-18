@@ -3,7 +3,7 @@ layout: post
 title: "Baubegleitende Erstprüfung"
 subtitle: "Eine einfache Schritt für Schritt Anleitung"
 date: 2019-01-18
-background: '/img/posts/erstpr.jpg'
+background: '/img/erstpr.jpg'
 ---
 
 # Baubegleitende Erstprüfung
