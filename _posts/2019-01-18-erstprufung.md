@@ -5,11 +5,14 @@ date: 2019-01-18
 ---
 
 # Baubegleitende Erstprüfung
+
 ## Wozu braucht es das oder wer schreibt mir das vor?
+
 #### NIV Art 24
 Baubegleitende Erstprüfung und betriebsinterne Schlusskontrolle
 
 1. Vor der Inbetriebnahme einer elektrischen Installation oder von Teilen davon ist eine baubegleitende Erstprüfung durchzuführen. Diese Erstprüfung ist zu protokollieren.
+
 #### NIN 6.1
 In der NIN Kap 6.1 ist genau beschrien, wie eine Erstprüfung ablaufen soll:
 Hier mal nur soviel:
