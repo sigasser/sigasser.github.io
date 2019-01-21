@@ -72,7 +72,7 @@ Sie beinhaltet:
 
 2. 📄 Schema oder Legende, Bedienungsanleitungen oder Datenblätter müssen bei der Kontrolle vorhanden sein!
 
-3. :information_source: Informieren, isolieren, trennen.
+3. ℹ️ infor Informieren, isolieren, trennen.
 
 4. ❓ kann ich das noch anhängen?
 
