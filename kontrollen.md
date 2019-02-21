@@ -33,6 +33,7 @@ Eine Vollständige Liste finden Sie in der gesetzlichen Grundlage.
 Buchen Sie direkt einen Termin und wählen Sie ein passendes Datum aus.
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
 
+---
 ## Die Kontrolle der elektrischen Installation bei einer Handänderung
 
 Möchten Sie Ihre Liegenschaft verkaufen, fordert der Gesetzgeber, dass Sie einen Sicherheitsnachweis vorlegen, der nicht älter als fünf Jahre ist.
