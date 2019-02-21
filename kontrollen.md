@@ -8,7 +8,7 @@ form: true
 ---
 [hauseigentümer](#hauseigentümer), [immobilienverwaltungen](#immobilienverwaltungen), [elektroinstallationsfirmen](#wir-übernehmen-ihre-kontrollen)
 
-[periodische Kontrollen](#die-periodische-kontrolle-der-elektrischen-installation-nach-niv-art.-36), [Handänderung](#die-kontrolle-der-elektrischen-installation-bei-einer-handänderung), [Ablauf einer Kontrolle](#wie-läuft-eine-solche-kontrolle-ab?)
+[periodische Kontrollen](#die-periodische-kontrolle-der-elektrischen-installation-nach-niv-art-36), [Handänderung](#die-kontrolle-der-elektrischen-installation-bei-einer-handänderung), [Ablauf einer Kontrolle](#wie-läuft-eine-solche-kontrolle-ab)
 
 # hauseigentümer
 
@@ -17,7 +17,7 @@ Sie sind Eigentümer eines Einfamilienhauses oder Mehrfamilienhauses oder einer 
 Oder möchten Sie Ihre Liegenschaft verkaufen und benötigen einen **Sicherheitsnachweis**?
 
 Dann sind Sie hier genau richtig.
-## Die periodische Kontrolle der elektrischen Installation nach NIV Art. 36
+## Die periodische Kontrolle der elektrischen Installation nach NIV Art 36
 
 Einen Ausschnitt der gesetzlichen Grundlage finden Sie [hier](), die Verordnung über elektrische Niederspannungsinstallationen finden Sie direkt auf der Seite des Bundes. Die periodische Kontrolle der elektrischen Installationen ist in unterschiedlichen Zeitabständen fällig:
 
@@ -31,7 +31,8 @@ Eine Vollständige Liste finden Sie in der gesetzlichen Grundlage.
 **Sie möchten eine Kontrolle in Ihren Einfamilienhaus durchführen lassen?**
 
 Buchen Sie direkt einen Termin und wählen Sie ein passendes Datum aus.
-[Zurück nach oben ⬆️](#)
+<div style="text-align: right"> [Zurück nach oben ⬆️](#) </div>
+
 ## Die Kontrolle der elektrischen Installation bei einer Handänderung
 
 Möchten Sie Ihre Liegenschaft verkaufen, fordert der Gesetzgeber, dass Sie einen Sicherheitsnachweis vorlegen, der nicht älter als fünf Jahre ist.
@@ -46,7 +47,7 @@ In älteren Liegenschaften reicht oft ein Kontrollbericht.
 
 Mit dem Kontrollbericht weiss der neue Besitzer direkt, was auf ihn zukommt. Sie können sich also mit dem Käufer und dem Grundbuchamt einigen, dass eine Auflistung der Mängel anstelle des Sicherheitsnachweises genügt.
 
-## Wie läuft eine solche Kontrolle ab?
+## Wie läuft eine solche Kontrolle ab
 
 Wir kontrollieren den Sicherungskasten auf altersbedingte Mängel.
 
@@ -82,6 +83,8 @@ Wenn Sie Fragen haben, oder etwas nicht so funktioniert, wie Sie sich das vorste
 
 **Entspricht unser Vorgehen Ihren Vorstellungen, zögern Sie nicht, mit uns einen Termin zu vereinbaren.**
 
+<div style="text-align: right"> [Zurück nach oben ⬆️](#) </div>
+
 ---
 
 # immobilienverwaltungen
@@ -100,6 +103,8 @@ Dabei übernehmen wir für Sie:
 Haben wir Sie bereits überzeugt? – Gerne senden wir Ihnen eine unverbindliche Preisanfrage.
 
 Beschreiben Sie uns die Art und Grösse Ihrer Liegenschaft per Mail und wir melden uns bei Ihnen.
+
+<div style="text-align: right"> [Zurück nach oben ⬆️](#) </div>
 
 ---
 
@@ -140,3 +145,4 @@ Haben wir sie überzeugt, zögern Sie nicht, mit uns einen Termin zu vereinbaren
 
 ## Photovoltaik Anlagen
 Unsere Elektro-Sicherheitsberater bilden sich ständig weiter. Auch zum Thema Photovoltaik Anlagen. Der besuchte Kurs von Swissolar und dem VSEK, dem Verband Schweizerischer Elektrokontrollen macht uns nicht zum Solarprofi, aber eine Photovoltaik Anlage können wir dennoch kompetent und zuverlässig kontrollieren.
+<div style="text-align: right"> [Zurück nach oben ⬆️](#) </div>
