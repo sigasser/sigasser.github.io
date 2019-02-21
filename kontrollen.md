@@ -6,9 +6,10 @@ background: '/img/erstpr.jpg'
 permalink: /elektrokontrollen
 form: true
 ---
-[hauseigentümer](#hauseigentümer), [immobilienverwaltungen](#immobilienverwaltungen), [elektroinstallationsfirmen](#Wir übernehmen ihre Kontrollen)
+[]
+[hauseigentümer](#hauseigentümer), [immobilienverwaltungen](#immobilienverwaltungen), [elektroinstallationsfirmen](#Wir-übernehmen-ihre-Kontrollen)
 
-[periodische Kontrollen](# Die periodische Kontrolle der elektrischen Installation nach NIV Art. 36), [Handänderung](# Die Kontrolle der elektrischen Installation bei einer Handänderung), [Ablauf einer Kontrolle](# Wie läuft eine solche Kontrolle ab?)
+[periodische Kontrollen](#Die-periodische-Kontrolle-der-elektrischen-Installation-nach-NIV-Art.-36), [Handänderung](#Die-Kontrolle-der-elektrischen-Installation-bei-einer-Handänderung), [Ablauf einer Kontrolle](#Wie-läuft-eine-solche-Kontrolle-ab?)
 
 # hauseigentümer
 
@@ -31,7 +32,7 @@ Eine Vollständige Liste finden Sie in der gesetzlichen Grundlage.
 **Sie möchten eine Kontrolle in Ihren Einfamilienhaus durchführen lassen?**
 
 Buchen Sie direkt einen Termin und wählen Sie ein passendes Datum aus.
-
+[Zurück nach oben ⬆️](%Elektrokontrollen)
 ## Die Kontrolle der elektrischen Installation bei einer Handänderung
 
 Möchten Sie Ihre Liegenschaft verkaufen, fordert der Gesetzgeber, dass Sie einen Sicherheitsnachweis vorlegen, der nicht älter als fünf Jahre ist.
@@ -81,7 +82,9 @@ Wenn Sie Fragen haben, oder etwas nicht so funktioniert, wie Sie sich das vorste
   *  Bei grösseren, gefährlichen Mängeln führen wir eine kurze Nachkontrolle durch.
 
 **Entspricht unser Vorgehen Ihren Vorstellungen, zögern Sie nicht, mit uns einen Termin zu vereinbaren.**
+
 ---
+
 # immobilienverwaltungen
 
 Wir kontrollieren für Sie die elektrische Installation bei:
@@ -102,12 +105,12 @@ Beschreiben Sie uns die Art und Grösse Ihrer Liegenschaft per Mail und wir meld
 ---
 
 # Wir übernehmen Ihre Kontrollen
-## Sie brauchen einen unabhängigen, flexiblen Sicherheitsberater?
+**Sie brauchen einen unabhängigen, flexiblen Sicherheitsberater?**
 
 Dann sind Sie hier genau richtig!
-### Wir übernehmen Ihre Kontrollen gerne für Sie!
-## Unabhängige Kontrolle
+**Wir übernehmen Ihre Kontrollen gerne für Sie!**
 
+## Unabhängige Kontrolle
 Wir führen für Sie und Ihre Kunden die geforderten Unabhängigen Kontrollen aus. Unsere Kunden sind unter anderem in Schaffhausen, Thayngen, Beringen, Andelfingen, Neuhausen, Hallau, Wilchingen.
 
 Haben Sie die Anlage im ElektroForm erfasst, können Sie uns Ihre Anlagedaten per Dossier senden und wir ergänzen Mess- und Prüfprotokoll und Sicherheitsnachweis und senden es Ihnen zurück.
@@ -115,15 +118,17 @@ Haben Sie die Anlage im ElektroForm erfasst, können Sie uns Ihre Anlagedaten pe
 Auf Wunsch übernehmen wir auch die Terminierung und die Korrespondenz mit Kunde und Elektrizitätswerk.
 
 Haben wir sie überzeugt, zögern Sie nicht, mit uns einen Termin zu vereinbaren! Wir übernehmen Ihre Kontrollen.
-## Sie haben keine Zeit die Schlusskontrollen selber zu machen?
 
+## Sie haben keine Zeit die Schlusskontrollen selber zu machen?
 Wir übernehmen Ihre Kontrollen. Auch für die Schlusskontrollen gilt:
 
   * Wir arbeiten mit InfraData, dem Kontrollprogramm von Brunner Informatik AG Sie können uns also ihre Anlagedaten per Dossier direkt aus dem ProgrammElektroFormsenden. Wir ergänzen Mess- und Prüfprotokoll und Sicherheitsnachweis und senden es Ihnen zurück.
 
 **So haben Sie alle EW-Formulare vom Gesuch bis zum Sicherheitsnachweis an einem Ort elektronisch abgelegt.**
 
-Haben wir sie überzeugt, zögern Sie nicht, mit uns einen Termin zu vereinbaren! Wir übernehmen Ihre Kontrollen.
+Haben wir sie überzeugt, zögern Sie nicht, mit uns einen Termin zu vereinbaren!
+Wir übernehmen Ihre Kontrollen.
+
 ## Periodische Kontrollen, eine Dienstleistung für Ihre Stammkunden
 
 Wir erledigen die Periodischen Kontrollen Ihrer Kunden und stellen Ihnen den Kontrollbericht zu. Nach erfolgter Mängelbehebung stellen wir die Sicherheitsnachweise aus und stellen sie dem Kunden und dem EW zu.
@@ -133,6 +138,6 @@ Von der Terminierung über die Kontrolle und der Korrespondenz mit dem Elektrizi
 Sie können auch für Ihren Kunden direkt einen passenden Termin buchen, so muss niemand warten und lästiges hin und her telefonieren entfällt. Interessiert? nehmen Sie mit uns Kontakt auf.
 
 Haben wir sie überzeugt, zögern Sie nicht, mit uns einen Termin zu vereinbaren! Wir übernehmen Ihre Kontrollen.
-## Photovoltaik Anlagen
 
-Unser Elektro-Sicherheitsberater bildet sich ständig weiter. Auch zum Thema Photovoltaik Anlagen. Der besuchte Kurs von Swissolar und dem VSEK, dem Verband Schweizerischer Elektrokontrollen macht uns nicht zum Solarprofi, aber eine einfache Photovoltaik Anlage können wir dennoch kompetent und zuverlässig kontrollieren.
+## Photovoltaik Anlagen
+Unsere Elektro-Sicherheitsberater bilden sich ständig weiter. Auch zum Thema Photovoltaik Anlagen. Der besuchte Kurs von Swissolar und dem VSEK, dem Verband Schweizerischer Elektrokontrollen macht uns nicht zum Solarprofi, aber eine Photovoltaik Anlage können wir dennoch kompetent und zuverlässig kontrollieren.
