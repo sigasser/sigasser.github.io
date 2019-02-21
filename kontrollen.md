@@ -6,10 +6,9 @@ background: '/img/erstpr.jpg'
 permalink: /elektrokontrollen
 form: true
 ---
-[]
-[hauseigentümer](#hauseigentümer), [immobilienverwaltungen](#immobilienverwaltungen), [elektroinstallationsfirmen](#Wir-übernehmen-ihre-Kontrollen)
+[hauseigentümer](#hauseigentümer), [immobilienverwaltungen](#immobilienverwaltungen), [elektroinstallationsfirmen](#wir-übernehmen-ihre-kontrollen)
 
-[periodische Kontrollen](#Die-periodische-Kontrolle-der-elektrischen-Installation-nach-NIV-Art.-36), [Handänderung](#Die-Kontrolle-der-elektrischen-Installation-bei-einer-Handänderung), [Ablauf einer Kontrolle](#Wie-läuft-eine-solche-Kontrolle-ab?)
+[periodische Kontrollen](#die-periodische-kontrolle-der-elektrischen-installation-nach-niv-art.-36), [Handänderung](#die-kontrolle-der-elektrischen-installation-bei-einer-handänderung), [Ablauf einer Kontrolle](#wie-läuft-eine-solche-kontrolle-ab?)
 
 # hauseigentümer
 
@@ -32,7 +31,7 @@ Eine Vollständige Liste finden Sie in der gesetzlichen Grundlage.
 **Sie möchten eine Kontrolle in Ihren Einfamilienhaus durchführen lassen?**
 
 Buchen Sie direkt einen Termin und wählen Sie ein passendes Datum aus.
-[Zurück nach oben ⬆️](%Elektrokontrollen)
+[Zurück nach oben ⬆️](#)
 ## Die Kontrolle der elektrischen Installation bei einer Handänderung
 
 Möchten Sie Ihre Liegenschaft verkaufen, fordert der Gesetzgeber, dass Sie einen Sicherheitsnachweis vorlegen, der nicht älter als fünf Jahre ist.
