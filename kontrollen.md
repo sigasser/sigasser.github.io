@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-kontrollen
 title: Elektrokontrollen
 description: Periodische und Unabhängige Sichererheitskontrollen
 background: '/img/erstpr.jpg'
