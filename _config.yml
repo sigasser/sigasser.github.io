@@ -1,4 +1,4 @@
-name: 
+name:
 markdown: kramdown
 permalink: /:title
 
@@ -10,7 +10,7 @@ theme: jekyll-theme-tactile
 
 
 
-title:             Sg3.ch, 
+title:             Sg3.ch,
 email:             me@simongasser.com
 description:       Anleitungen, Projekte und Gedanken zur Digitalisierung.
 author:            sigasser
@@ -28,3 +28,33 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+# Team names, titles and social links
+people:
+- name: Simon Gasser
+  pic: 1
+  position: Elektro-Sicherheitsberater
+  social:
+    - title: twitter
+      url: https://twitter.com/sigasser
+    - title: Email
+      url: mailto:simon@simon-gasser.ch
+    - title: Kalender
+      url: https://www.supersaas.de/schedule/simon_gasser_gmbh/Simon_Gasser
+
+- name: Michael Mächler
+  pic: 2
+  position: Elektro-Sicherheitsberater
+  social:
+    - title: Email
+      url: mailto:michael@simon-gasser.ch
+    - title: Kalender
+      url: https://www.supersaas.de/schedule/simon_gasser_gmbh/Michael_Maechler
+
+
+- name: Rachel Gasser
+  pic: 3
+  position: Buchhaltung
+  social:
+    - title: Email
+      url: mailto:rachel@simon-gasser.ch
