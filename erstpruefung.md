@@ -199,7 +199,13 @@ Siehe auch info 2083
 <h5>6.1.3.6 Schutz durch automatische Abschaltung der Stromversorgung</h5>
 
 
-<p>Abschaltzeiten 0.4s, 5s, bei FI 0.3s</p>
+**Abschaltzeiten**
+
+* Endstromkreise: 0.4s
+* Versorgerstromkreise: 5s
+* Nach einem FI 0.3s
+
+
 <h6>6.1.3.6.1 Allgemeines</h6>
 <ol>
 <i><p><b>Anmerkung:</b></p>
