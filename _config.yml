@@ -35,8 +35,6 @@ people:
   pic: 1
   position: Elektro-Sicherheitsberater
   social:
-    - title: twitter
-      url: https://twitter.com/sigasser
     - title: envelope-o
       url: mailto:simon@simon-gasser.ch
     - title: calendar-check-o
