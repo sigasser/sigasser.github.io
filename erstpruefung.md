@@ -5,7 +5,7 @@ description: Eine praktische Anleitung
 background: '/img/erstpr.jpg'
 permalink: /erstpruefung
 form: true
-
+---
 <h3>6.1 Erstprüfungen</h3>
 
 
