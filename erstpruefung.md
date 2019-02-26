@@ -6,6 +6,8 @@ background: '/img/erstpr.jpg'
 permalink: /erstpruefung
 form: true
 ---
+# Grundlagen
+
 <h3>6.1 Erstprüfungen</h3>
 
 
@@ -376,3 +378,9 @@ Siehe auch info 2067a
 <p>Alle Fehler oder fehlende Teile, die während der Prüfung der Anlage erkannt werden, müssen korrigiert werden, bevor der Errichter der Anlage erklärt, dass diese Anlage die Anforderungen der Normen erfüllt.</p>
 <p>Im weiteren müssen die Anforderungen der 4 NIV Art. 35 erfüllt werden.</p>
 </ol>
+
+# Und was heisst das für uns in der Praxis
+
+
+
+# Checklisten
