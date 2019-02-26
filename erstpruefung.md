@@ -24,7 +24,7 @@ Siehe auch info 2085b
 <h4>6.1.1 Allgemeines</h4>
 
 <ol>
-<li>Jede elektrische Anlage muss, bevor sie vom Benützer in Betrieb genommen wird, gemäss 4 NIV (Art. 24) während der Errichtung bzw. bei Fertigstellung geprüft werden, um nachzuweisen, dass sie den sicherheitstechnischen Anforderungen entspricht.</il>
+<li>Jede elektrische Anlage muss, bevor sie vom Benützer in Betrieb genommen wird, gemäss 4 NIV (Art. 24) während der Errichtung bzw. bei Fertigstellung geprüft werden, um nachzuweisen, dass sie den sicherheitstechnischen Anforderungen entspricht.
 <li>Für die Prüfung der Anlage müssen entsprechende Unterlagen zur Verfügung stehen, aus welchen Aufbau der Stromkreise, Raumart und Einteilung, Art der Schutzmassnahmen und dgl. ersichtlich sind.</il>
 <li>Während der Prüfung müssen Vorsichtsmassnahmen getroffen werden, um eine Gefährdung von Personen, Nutztieren und Sachwerten auszuschliessen.</il>
 <li>Bei Erweiterung oder Änderung einer bereits bestehenden Anlage ist nachzuweisen, dass die Sicherheit der bestehenden Anlage nicht beeinträchtigt wird.</il>
@@ -183,6 +183,7 @@ Siehe auch info 2092a
   <li>Die sichere Trennung der aktiven Teile von aktiven Teilen anderer Stromkreise und von Erde gemäss 2 4.1.3 muss durch Messung des Isolationswiderstands bestätigt werden. Die festgestellten Widerstandswerte müssen den Werten der 2 Tabelle 6.1.3.3.2.1 entsprechen.</li>
   <li>Bei Schutztrennung mit mehr als einem elektrischen Verbrauchsmittel muss durch Messung oder Berechnung nachgewiesen werden, dass bei zwei gleichzeitig auftretenden Fehlern mit vernachlässigbarer Impedanz zwischen unterschiedlichen Aussenleitern und dem Schutz-Potenzialausgleichsleiter oder den an diesen angeschlossenen Körpern mindestens einer der fehlerhaften Stromkreise abgeschaltet wird. Die Abschaltzeit muss dem für die Schutzmassnahme üautomatische Abschaltung der Stromversorgung im System TNý verlangten Wert entsprechen.</li>
   </ol>
+
 
 <h5>6.1.3.5 Fussboden- und Wandwiderstände</h5>
 
