@@ -25,10 +25,9 @@ Siehe auch info 2085b
 
 <ol>
 <li>Jede elektrische Anlage muss, bevor sie vom Benützer in Betrieb genommen wird, gemäss 4 NIV (Art. 24) während der Errichtung bzw. bei Fertigstellung geprüft werden, um nachzuweisen, dass sie den sicherheitstechnischen Anforderungen entspricht.
-<li>Für die Prüfung der Anlage müssen entsprechende Unterlagen zur Verfügung stehen, aus welchen Aufbau der Stromkreise, Raumart und Einteilung, Art der Schutzmassnahmen und dgl. ersichtlich sind.</il>
-<li>Während der Prüfung müssen Vorsichtsmassnahmen getroffen werden, um eine Gefährdung von Personen, Nutztieren und Sachwerten auszuschliessen.</il>
-<li>Bei Erweiterung oder Änderung einer bereits bestehenden Anlage ist nachzuweisen, dass die Sicherheit der bestehenden Anlage nicht beeinträchtigt wird.</il>
-</ol>
+<li>Für die Prüfung der Anlage müssen entsprechende Unterlagen zur Verfügung stehen, aus welchen Aufbau der Stromkreise, Raumart und Einteilung, Art der Schutzmassnahmen und dgl. ersichtlich sind.
+<li>Während der Prüfung müssen Vorsichtsmassnahmen getroffen werden, um eine Gefährdung von Personen, Nutztieren und Sachwerten auszuschliessen.
+<li>Bei Erweiterung oder Änderung einer bereits bestehenden Anlage ist nachzuweisen, dass die Sicherheit der bestehenden Anlage nicht beeinträchtigt wird.
 
 
 
