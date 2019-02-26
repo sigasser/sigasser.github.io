@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-erstpruefung
 title: Erstprüfung
 description: Eine praktische Anleitung
 background: '/img/erstpr.jpg'
