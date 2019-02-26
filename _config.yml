@@ -37,7 +37,7 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/sigasser
-    - title: Email
+    - title: mail
       url: mailto:simon@simon-gasser.ch
     - title: Kalender
       url: https://www.supersaas.de/schedule/simon_gasser_gmbh/Simon_Gasser
@@ -46,7 +46,7 @@ people:
   pic: 2
   position: Elektro-Sicherheitsberater
   social:
-    - title: Email
+    - title: mail
       url: mailto:michael@simon-gasser.ch
     - title: Kalender
       url: https://www.supersaas.de/schedule/simon_gasser_gmbh/Michael_Maechler
@@ -56,5 +56,5 @@ people:
   pic: 3
   position: Buchhaltung
   social:
-    - title: Email
+    - title: mail
       url: mailto:rachel@simon-gasser.ch
