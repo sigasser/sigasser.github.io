@@ -17,8 +17,8 @@ kompetent, einfach, persönlich.
 <div class="container">
            <div class="row">
                <div class="col-lg-12 text-center">
-                   <h2 class="section-heading">Our Amazing Team</h2>
-                   <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                   <h2 class="section-heading">Unser Team</h2>
+            <!--       <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                </div>
            </div>
            <div class="row">
@@ -44,7 +44,7 @@ kompetent, einfach, persönlich.
            </div>
            <div class="row">
                <div class="col-lg-8 col-lg-offset-2 text-center">
-                   <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                <!--   <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p> -->
                </div>
            </div>
        </div>
