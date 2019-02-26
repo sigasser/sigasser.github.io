@@ -15,14 +15,14 @@ Ganz nach unserem Motto:
 kompetent, einfach, persönlich.
 
 <section id="team" class="bg-light-gray">
-<div class="container">
-           <div class="row">
-               <div class="col-lg-12 text-center">
-                   <h2 class="section-heading">Unser Team</h2>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+         <h2 class="section-heading">Unser Team</h2>
             <!--       <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
-               </div>
-           </div>
-           <div class="row">
+      </div>
+    </div>
+        <div class="row">
                {% for member in site.people %}
                <div class="col-sm-4">
                    <div class="team-member">
@@ -48,5 +48,5 @@ kompetent, einfach, persönlich.
                 <!--   <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p> -->
                </div>
            </div>
-       </div>
+    </div>
 </section>
