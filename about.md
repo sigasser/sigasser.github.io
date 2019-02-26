@@ -14,7 +14,7 @@ So ist es möglich, unsere Kontrollen zielgerichtet, einfach und konstengünstig
 Ganz nach unserem Motto:
 kompetent, einfach, persönlich.
 
-
+<section id="team" class="bg-light-gray">
 <div class="container">
            <div class="row">
                <div class="col-lg-12 text-center">
@@ -49,3 +49,4 @@ kompetent, einfach, persönlich.
                </div>
            </div>
        </div>
+</section>
