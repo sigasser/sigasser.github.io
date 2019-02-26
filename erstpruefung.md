@@ -28,6 +28,7 @@ Siehe auch info 2085b
 <li>Für die Prüfung der Anlage müssen entsprechende Unterlagen zur Verfügung stehen, aus welchen Aufbau der Stromkreise, Raumart und Einteilung, Art der Schutzmassnahmen und dgl. ersichtlich sind.
 <li>Während der Prüfung müssen Vorsichtsmassnahmen getroffen werden, um eine Gefährdung von Personen, Nutztieren und Sachwerten auszuschliessen.
 <li>Bei Erweiterung oder Änderung einer bereits bestehenden Anlage ist nachzuweisen, dass die Sicherheit der bestehenden Anlage nicht beeinträchtigt wird.
+</ol>
 
 
 
