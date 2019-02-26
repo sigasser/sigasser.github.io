@@ -1,7 +1,7 @@
 ---
-layout: page-pruefung
-title: Elektrokontrollen
-description: Periodische und Unabhängige Sichererheitskontrollen
+layout: page
+title: Erstprüfung
+description: Eine praktische Anleitung
 background: '/img/erstpr.jpg'
 permalink: /erstpruefung
 form: true
