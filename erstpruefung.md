@@ -6,10 +6,103 @@ background: '/img/erstpr.jpg'
 permalink: /erstpruefung
 form: true
 ---
+
+# Einleitung
+In der _NIV (**N**iederspannungs **I**nstallations **V**erordnung) Artikel 24_ wird die Baubegleitende Erstprüfung gefordert und wie folgt beschrieben:
+
+>Baubegleitende Erstprüfung und betriebsinterne Schlusskontrolle
+
+>1. Vor der Inbetriebnahme einer elektrischen Installation oder von Teilen davon ist eine baubegleitende Erstprüfung durchzuführen. Diese Erstprüfung ist zu protokollieren.
+
+
+In der _NIN Kap 6.1_ ist genau und praktisch beschrieben, wie eine Erstprüfung ablaufen soll:
+
+Hier mal nur soviel (Zitat aus NIN 2015 Compact):
+>**6.1.1. Allgemeines**
+>1. _Jede elektrische Anlage muss_, bevor sie vom Benutzer in Betrieb genommen wird, gemäss NIV Art. 24 während der Errichtung bzw. bei der Fertigstellung geprüft werden, um nachzuweisen, dass sie den sicherheitstechnischen Anforderungen entspricht.
+
+>prüfen umfasst alle Tätigkeiten, mit denen festgestellt wird, ob die Ausführung der gesammten Anlageder NIN entspricht.
+
+>Sie beinhaltet:
+* die Sichtprüfung
+* das Erproben
+* die Messungen
+
+### Aus der Praxis 🔨
+Nach über 20 Jahren im Beruf, davon über 8 Jahre als Sicherheitsberater,
+weiss ich, dass diese Kontrollen keine Schikane, sondern eine Routine schafft, die uns Elektrikern hilft, hohe Qualität mit geringem Aufwand zu erreichen.
+Viele Schäden und (Fast-) Unfälle können verhindert werden.
+Und für uns ist es wie eine Versicherung:
+Wir haben die Kontrolle durchgeführt, die Werte sind in Ordnung, ich habe gute Arbeit geleistet.
+
+Genauso wie wir eine Wasserwaage ja nicht brauchen, um die Abdeckung gerade zu montieren, sondern um zu beweisen, dass wir ein super Auge haben 😉,
+
+so machen wir die Erstprüfung nur, um zu zeigen, dass wir ausgezeichnete Arbeit gemacht haben. Wäre ja auch schade, wenn das dann niemand merkt 👏.
+
+# Und was heisst das für uns in der Praxis?
+
+## Ablauf der Erstprüfung Schritt für Schritt
+
+## Und hier kompakt als Checkliste
+
+### Sichtprüfung
+* Hausanschlusskasten Aussenkasten:
+ 	* Zugänglichkeit gewährleistet
+ 	* abgehende Leitungen dem Querschnitt entsprechend abgesichert
+ 	* NH- Sicherungen mit max. Nennstromstärke und Trägheitsgrad beschriftet
+ 	* Phasenreihenfolge L1/L2/L3 (br/s/gr) eingehalten
+ 	* spannungsführende Teile abgedeckt! Öffnungen abgedichtet
+ 	* alle Plombiervorrichtungen vorhanden (Steuerklemmen etc.)
+* Schutzmassnahmen Messungen siehe. Pos. 6
+ 	* Fundamenterder erstellt und richtig angeschlossen
+ 	* Erdungsleitung ausgeführt und richtig angeschlossen
+ 	* Wassermesser, Ventile und dgl. überbrückt
+ 	* Schutzsystem TN-S, TN-C, TN-C-S gemäss NIN 4.1.3.1 ausgeführt
+* Schalt- und Verteilanlagen
+ 	* Zugänglichkeit und minimale Abmessungen gewährleistet NIN 5.1.3.
+ 	* Abstände gegen brennbare Gebäudeteile oder wärmeisolierende Unterlagen
+ 	* abgehende Leitungen dem Querschnitt entsprechend abgesichert
+ 	* Tarifapparate, Überstromunterbrecher usw. entsprechend beschriftet
+ 	* Klemmen angezogen, Öffnungen abgedichtet, spannungsführende Teile abgedeckt
+ 	* NH- Sicherungen mit max. Nennstromstärke und Trägheitsgrad beschriftet
+ 	* Selektivität der Überstromunterbrecher gewährleistet I rev. Schema deponiert
+ 	* Tarifsteurerung, Freigabe- und Sperrsteuerungen gern. Inst.Anzeige. ausgeführt
+ 	* Drehfeld am Zähler richtig
+ 	* Schaltgerätekombination (SGK) Stückprüfung inkl. Prüfprotokoll durchgeführt, Typenschild angebracht.
+* Licht-, Steckdosen- und Apparateinstallationen
+ 	* Steckdosen bis 32 A FI-geschützt / Abstände Dusche und Bad gemäss NIN 7.01
+ 	* Garage Abstand für Schalter, Steckdosen u. Apparate (Boiler etc.) 1 m eingehalten
+ 	* keine Schutzleiter über Lampen geschlauft, Lampenwahl gemäss Raumart
+ 	* Neutralleiter und Schutzleiter richtig angeschlossen und geprüft
+ 	* brennbare Gebäudeteile entsprechend ausgekleidet, feuerfeste Unterlagen angebracht
+ 	* Drehsinn von Drehstromsteckdosen eingehalten
+ 	* Steckdosen entsprechend Raumart, Standort usw. gewählt
+ 	* Leitungsquerschnitt richtig abgesichert, Passeinsätze eingesetzt
+ 	* Installation entsprechend Raumart und mechanischer Beanspruchung ausgeführt
+ 	unbenutzte Lampenstellen sind isoliert
+* Verbraucher, Apparate
+ 	* brennbare Gebäudeteile entsprechend ausgekleidet bzw. Unterlagen angebracht
+ 	* erforderliche Schutzeinrichtungen vorhanden. (Boiler wasserseitig, elektrisch, Serviceschalter PVA, usw.)
+ 	* Überstromschutz bei Motoren vorhanden und richtig eingestellt
+ 	* Instruktion vorhanden und eingehalten, Schema deponiert
+ 	* alle leitenden Teile mit Schutzleiter verbunden oder Sonderisoliert
+ 	* Zugentlastung, Leistungsschilder, thermische Auslöser usw. vorhanden
+ 	* Anlageschalter, Fremdspannungshinweise usw. vorhanden (Schilder PVA)
+ 	* Sicherheitszeichen vorhanden, Nachweispflicht erfüllt, Verbraucherdaten i. O.
+* Messungen, Mess- und Prüfprotokoll
+ 	* keine Installationsseitige Verbindung N-PE vorhanden
+ 	* alle Schutzleiter richtig angeschlossen und auf Durchgang geprüft
+ 	* alle FI-Schalter und nachgeschaltete Installationen geprüft
+ 	* Isolationswiderstand RIso [MΩ]: PE-N: ………………. ; PE-L1: ……………….; PE-L2: ……………….; PE-L3: ……………….
+ 	⚠️Reihenfolge beachten. Ist RIso PE-N schlecht, nicht weitermessen! ⚠️
+ 	* Kurzschlussstrom …………..A, eingesetzte Sich………… A, Trägheitsgrad………….
+ 	* Personenschutz erfüllt, 5 s/0,4 s/<50 V/<0,5 mA
+
+
 # Grundlagen
 
 <h3>6.1 Erstprüfungen</h3>
-
+Zitat NIN 2015 (Stand 12.18)
 
 
 Siehe auch info 2062a
@@ -386,7 +479,18 @@ Siehe auch info 2067a
 <p>Im weiteren müssen die Anforderungen der 4 NIV Art. 35 erfüllt werden.</p>
 </ol>
 
-# Und was heisst das für uns in der Praxis
+### 7.01 Räume mit Badewanne oder Dusche
+
+![Fig. 7.01.3.0.1.1 Allgemein: Abmessungen der Bereiche 0, 1 und 2 in Räumen mit Badewannen](img/Badewanne1.png)
+
+a) Seitenansicht, Bad
+b) Draufsicht, Bad
+c) 	Draufsicht (mit fest angebrachter Abtrennung und Radius für Mindestabstand beim Greifen um die Abtrennung herum)
+f)	Draufsicht (mit Speigelschrank im Bereich 2)
+1) 	Feste Abtrennung
+2) Fadenmass für Umgreifen
+3) Spiegelschrank im Bereich 2 - Fadenmass für Umgreifen der Schranktüre
+
 
 
 
