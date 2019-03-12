@@ -22,7 +22,7 @@ form: true
     </li>
     <li>
       <a href="https://www.supersaas.de/schedule/simon_gasser_gmbh/Simon_Gasser">
-       📅
+       📅 einen Kontrolltermin buchen
      </a>
   </li>
   </ul>
@@ -42,7 +42,7 @@ form: true
     </li>
     <li>
       <a href="https://www.supersaas.de/schedule/simon_gasser_gmbh/Michael_Maechler">
-       📅
+       📅 einen Kontrolltermin buchen
      </a>
   </li>
   </ul>
