@@ -28,6 +28,9 @@ Hier mal nur soviel (Zitat aus NIN 2015 Compact):
 * das Erproben
 * die Messungen
 
+<div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
+
+---
 ### Aus der Praxis 🔨
 Nach über 20 Jahren im Beruf, davon über 8 Jahre als Sicherheitsberater,
 weiss ich, dass diese Kontrollen keine Schikane, sondern eine Routine schafft, die uns Elektrikern hilft, hohe Qualität mit geringem Aufwand zu erreichen.
@@ -48,61 +51,87 @@ so machen wir die Erstprüfung nur, um zu zeigen, dass wir ausgezeichnete Arbeit
 ## Und hier kompakt als Checkliste
 
 ### Sichtprüfung
-* Hausanschlusskasten Aussenkasten:
-   	* Zugänglichkeit gewährleistet
-   	* abgehende Leitungen dem Querschnitt entsprechend abgesichert
-   	* NH- Sicherungen mit max. Nennstromstärke und Trägheitsgrad beschriftet
-   	* Phasenreihenfolge L1/L2/L3 (br/s/gr) eingehalten
-   	* spannungsführende Teile abgedeckt! Öffnungen abgedichtet
-   	* alle Plombiervorrichtungen vorhanden (Steuerklemmen etc.)
-* Schutzmassnahmen Messungen siehe. Pos. 6
-   	* Fundamenterder erstellt und richtig angeschlossen
-   	* Erdungsleitung ausgeführt und richtig angeschlossen
-   	* Wassermesser, Ventile und dgl. überbrückt
-  	* Schutzsystem TN-S, TN-C, TN-C-S gemäss NIN 4.1.3.1 ausgeführt
-* Schalt- und Verteilanlagen
- 	* Zugänglichkeit und minimale Abmessungen gewährleistet NIN 5.1.3.
- 	* Abstände gegen brennbare Gebäudeteile oder wärmeisolierende Unterlagen
- 	* abgehende Leitungen dem Querschnitt entsprechend abgesichert
- 	* Tarifapparate, Überstromunterbrecher usw. entsprechend beschriftet
- 	* Klemmen angezogen, Öffnungen abgedichtet, spannungsführende Teile abgedeckt
- 	* NH- Sicherungen mit max. Nennstromstärke und Trägheitsgrad beschriftet
- 	* Selektivität der Überstromunterbrecher gewährleistet I rev. Schema deponiert
- 	* Tarifsteurerung, Freigabe- und Sperrsteuerungen gern. Inst.Anzeige. ausgeführt
- 	* Drehfeld am Zähler richtig
- 	* Schaltgerätekombination (SGK) Stückprüfung inkl. Prüfprotokoll durchgeführt, Typenschild angebracht.
-* Licht-, Steckdosen- und Apparateinstallationen
- 	* Steckdosen bis 32 A FI-geschützt, Abstände Dusche und Bad gemäss NIN 7.01
- 	* Garage Abstand für Schalter, Steckdosen u. Apparate (Boiler etc.) 1 m eingehalten
- 	* keine Schutzleiter über Lampen geschlauft, Lampenwahl gemäss Raumart
- 	* Neutralleiter und Schutzleiter richtig angeschlossen und geprüft
- 	* brennbare Gebäudeteile entsprechend ausgekleidet, feuerfeste Unterlagen angebracht
- 	* Drehsinn von Drehstromsteckdosen eingehalten
- 	* Steckdosen entsprechend Raumart, Standort usw. gewählt
- 	* Leitungsquerschnitt richtig abgesichert, Passeinsätze eingesetzt
- 	* Installation entsprechend Raumart und mechanischer Beanspruchung ausgeführt
- 	unbenutzte Lampenstellen sind isoliert
-* Verbraucher, Apparate
- 	* brennbare Gebäudeteile entsprechend ausgekleidet bzw. Unterlagen angebracht
- 	* erforderliche Schutzeinrichtungen vorhanden. (Boiler wasserseitig, elektrisch, Serviceschalter PVA, usw.)
- 	* Überstromschutz bei Motoren vorhanden und richtig eingestellt
- 	* Instruktion vorhanden und eingehalten, Schema deponiert
- 	* alle leitenden Teile mit Schutzleiter verbunden oder Sonderisoliert
- 	* Zugentlastung, Leistungsschilder, thermische Auslöser usw. vorhanden
- 	* Anlageschalter, Fremdspannungshinweise usw. vorhanden (Schilder PVA)
- 	* Sicherheitszeichen vorhanden, Nachweispflicht erfüllt, Verbraucherdaten i. O.
-* Messungen, Mess- und Prüfprotokoll
- 	* keine Installationsseitige Verbindung N-PE vorhanden
- 	* alle Schutzleiter richtig angeschlossen und auf Durchgang geprüft
- 	* alle FI-Schalter und nachgeschaltete Installationen geprüft
- 	* Isolationswiderstand RIso [MΩ]: PE-N: ………………. ; PE-L1: ……………….; PE-L2: ……………….; PE-L3: ……………….
- 	⚠️Reihenfolge beachten. Ist RIso PE-N schlecht, nicht weitermessen! ⚠️
- 	* Kurzschlussstrom …………..A, eingesetzte Sich………… A, Trägheitsgrad………….
- 	* Personenschutz erfüllt, 5 s/0,4 s/<50 V/<0,5 mA
+<ul type=none>
+<dt><b>Hausanschlusskasten Aussenkasten:</b></dt>
+<ul type=square>
+<dd>☑️ Zugänglichkeit gewährleistet</dd>
+<dd>☑️abgehende Leitungen dem Querschnitt entsprechend abgesichert</dd>
+<li>NH- Sicherungen mit max. Nennstromstärke und Trägheitsgrad beschriftet</li>
+<li>Phasenreihenfolge L1/L2/L3 (br/s/gr) eingehalten</li>
+<li>spannungsführende Teile abgedeckt! Öffnungen abgedichtet</li>
+<li>alle Plombiervorrichtungen vorhanden (Steuerklemmen etc.)</li>
+</ul>
+<li><b>Schutzmassnahmen</b> (Messungen siehe. Pos. 6)</li>
+<ul type=square>
+<li>Fundamenterder erstellt und richtig angeschlossen</li>
+<li>Erdungsleitung ausgeführt und richtig angeschlossen</li>
+<li>Wassermesser, Ventile und dgl. überbrückt</li>
+<li>Schutzsystem TN-S, TN-C, TN-C-S gemäss NIN 4.1.3.1 ausgeführt</li>
+</ul>
+<li><b>Schalt- und Verteilanlagen</b></li>
+<ul type=square>
+<li>Zugänglichkeit und minimale Abmessungen gewährleistet NIN 5.1.3.</li>
+<li>Abstände gegen brennbare Gebäudeteile oder wärmeisolierende Unterlagen</li>
+<li>abgehende Leitungen dem Querschnitt entsprechend abgesichert</li>
+<li>Tarifapparate, Überstromunterbrecher usw. entsprechend beschriftet</li>
+<li>Klemmen angezogen, Öffnungen abgedichtet, spannungsführende Teile abgedeckt</li>
+<li>NH- Sicherungen mit max. Nennstromstärke und Trägheitsgrad beschriftet</li>
+<li>Selektivität der Überstromunterbrecher gewährleistet I rev. Schema deponiert</li>
+<li>Tarifsteurerung, Freigabe- und Sperrsteuerungen gern. Inst.Anzeige. ausgeführt</li>
+<li> Drehfeld am Zähler richtig</li>
+<li>Schaltgerätekombination (SGK) Stückprüfung inkl. Prüfprotokoll durchgeführt, Typenschild angebracht.</li>
+</ul>
+<li><b>Licht-, Steckdosen- und Apparateinstallationen</b></li>
+<ul type=square>
+<li>Steckdosen bis 32 A FI-geschützt, Abstände Dusche und Bad gemäss NIN 7.01</li>
+<li>Garage Abstand für Schalter, Steckdosen u. Apparate (Boiler etc.) 1 m eingehalten</li>
+<li>keine Schutzleiter über Lampen geschlauft, Lampenwahl gemäss Raumart</li>
+<li>Neutralleiter und Schutzleiter richtig angeschlossen und geprüft</li>
+<li>brennbare Gebäudeteile entsprechend ausgekleidet, feuerfeste Unterlagen angebracht</li>
+<li>Drehsinn von Drehstromsteckdosen eingehalten</li>
+<li>Steckdosen entsprechend Raumart, Standort usw. gewählt</li>
+<li>Leitungsquerschnitt richtig abgesichert, Passeinsätze eingesetzt</li>
+<li>Installation entsprechend Raumart und mechanischer Beanspruchung ausgeführt</li>
+<li>unbenutzte Lampenstellen sind isoliert</li>
+</ul>
+<li><b>Verbraucher, Apparate</b></li>
+<ul type=square>
+<li>brennbare Gebäudeteile entsprechend ausgekleidet bzw. Unterlagen angebracht</li>
+<li>erforderliche Schutzeinrichtungen vorhanden. (Boiler wasserseitig, elektrisch, Serviceschalter PVA, usw.)</li>
+<li>Überstromschutz bei Motoren vorhanden und richtig eingestellt</li>
+<li>Instruktion vorhanden und eingehalten, Schema deponiert</li>
+<li>alle leitenden Teile mit Schutzleiter verbunden oder Sonderisoliert</li>
+<li>Zugentlastung, Leistungsschilder, thermische Auslöser usw. vorhanden</li>
+<li>Anlageschalter, Fremdspannungshinweise usw. vorhanden (Schilder PVA)</li>
+<li>Sicherheitszeichen vorhanden, Nachweispflicht erfüllt, Verbraucherdaten i. O.</li>
+</ul>
+</ul>
 
+### Messen
+
+<ul type=none>
+<li><b>Messungen, Mess- und Prüfprotokoll</b></li>
+<dl>
+  <dt>Isolationswiderstand</dt>
+  <dd>☑️ keine Installationsseitige Verbindung N-PE vorhanden</dd>
+  <dt>Schutzleiterprüfung</dt>
+  <dd>☑️ alle Schutzleiter richtig angeschlossen und auf Durchgang geprüft</dd>
+  <dd>☑️ alle Schutzleiter richtig angeschlossen und auf Durchgang geprüft</dd>
+</dl>
+<ul type=square>
+<li></li>
+<li></li>
+<li>alle FI-Schalter und nachgeschaltete Installationen geprüft</li>
+<li>Isolationswiderstand R<sub>Iso</sub> [MΩ]: PE-N: ………………. ; PE-L1: ……………….; PE-L2: ……………….; PE-L3: ……………….<br>
+⚠️ Reihenfolge beachten. Ist R<sub>Iso</sub> PE-N schlecht, <b>nicht weitermessen!</b> ⚠️</li>
+<li>Kurzschlussstrom …………..A, eingesetzte Sich………… A, Trägheitsgrad………….</li>
+<li>Personenschutz erfüllt, 5 s/0,4 s/<50 V/<0,5 mA</li>
+</ul>
+</ul>
   <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
 
-  ---
+---
+
 # Grundlagen
 
 <h3>6.1 Erstprüfungen</h3>
