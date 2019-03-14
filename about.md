@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Über uns
-background: '/img/bg-contact.jpg'
+
+permalink: /about
 form: true
 ---
 
-
-{% include team.html %}
+Wir sind Michael Mächler und Simon Gasser.
+Wir arbeiten bei der Firma [simon gasser elektrokontrollen](https://simon-gasser.ch)
 
 
 <div class="col-sm-8">

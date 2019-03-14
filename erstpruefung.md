@@ -696,21 +696,37 @@ Oder mit dem [**Elektroform**](http://brunnerinformatik.ch/de/?Produkte:ElektroF
 #### Werkzeuge
 
 Für gute Arbeit braucht es auch entsprechende Werkzeuge.
+Wir arbeiten mit der Firma Visco-Handel zusammen. Die selbe Ausrüstung, die wir auch einsetzen, haben wir für euch in  zwei Paketen zusammengestellt:
 
-Wir haben mit der Firma Visco-Handel zwei Pakete zusammengestellt:
 
-[Classic](http://bit.ly/visco-classic)
+[**Classic**](http://bit.ly/visco-classic)
 
-[Silver](http://bit.ly/visco-silver)
 
+Erstprüfungsset bestehend aus:
+* 1x Messleitung auf Haspel 40m
+* 1x Installationstester Telaris 100
+
+<img src="img\rolle.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
+
+<img src="img\proinstall-100.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" pending="30"/>
+
+<img src="img\duspol-analog.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
+
+[**Silver**](http://bit.ly/visco-silver)
+
+Erstprüfungsset bestehend aus:
+* 1x Messleitung auf Haspel 40m
+* 1x Installationstester Telaris 100
+* 1x Spannungsprüfer AC/ DC 12-1000V
 
 Für Kursteilnehmer gibt es einen **Aktionspreis**.
 
 ---
-### Kurse
+### Über Uns
 
-Wir bieten praxisnahe Kurse in Kleingruppen direkt auf Ihrer/einer Baustelle, denn wir sind überzeugt, dass  die Praxis das beste Labor ist.
+Diese Anleitung und die Checklisten wurden von [Simon Gasser](https://twitter.com/sigasser) von [simon gasser elektrokontrollen](https://simon-gasser.ch) erstellt.
+Zusammen mit Michael Mächler bieten wir auch  praxisnahe Kurse in Kleingruppen direkt auf Ihrer/einer Baustelle, denn wir sind überzeugt, dass  die Praxis das beste Labor ist.
 
-<a href="mailto:kurse@simon-gasser.ch?subject=Kurs Erstprüfung">Nehmen Sie gerne mit uns Kontakt auf</a>
+Haben Sie Fragen, Anmerkungen oder möchten Sie uns für einen Kurs buchen, <a href="mailto:kurse@simon-gasser.ch?subject=Kurs Erstprüfung">schreiben Sie uns eine Email</a>
 
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
