@@ -10,16 +10,16 @@ theme: jekyll-theme-tactile
 
 
 
-title:             Sg3.ch,
-email:             me@simongasser.com
-description:       Anleitungen, Projekte und Gedanken zur Digitalisierung.
+title:             erstpruefung.ch,
+email:             kurs@simongasser.com
+description:       Eine Praxisnahe Anleitung für die Erstprüfung nach NIV Art. 24.
 author:            sigasser
 baseurl:           "/"
-url:               "https://sigasser.github.io"
+url:               "https://erstpruefung.ch"
 
 # Social Profiles
 twitter_username:  sigasser
-github_username:   sigasser
+github_username:
 
 # Build settings
 markdown:          kramdown
