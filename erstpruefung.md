@@ -158,10 +158,8 @@ so machen wir auch die Erstprüfung nur, um zu zeigen, dass wir ausgezeichnete A
 <li>Nach Beendigung der Prüfung einer neuen Anlage oder von Erweiterungen oder Änderungen in einer bestehenden Anlage muss ein Bericht inkl. Mess- und Prüfprotokoll erstellt werden. <br />
 Diese Dokumente müssen Details des Anlagenumfangs, welche durch den Bericht abgedeckt sind, zusammen mit einer Aufzeichnung über die Sichtprüfung und die Ergebnisse der Erprobungen und Messungen umfassen.</li>
 <p>Alle Fehler oder fehlende Teile, die während der Prüfung der Anlage erkannt werden, müssen korrigiert werden, bevor der Errichter der Anlage erklärt, dass diese Anlage die Anforderungen der Normen erfüllt.</p>
-<p>Im weiteren müssen die Anforderungen der [NIV Art. 35](https://www.admin.ch/opc/de/classified-compilation/20012238/index.html#a35) erfüllt werden.</p>
+<p>Im weiteren müssen die Anforderungen der <a href="http://https://www.admin.ch/opc/de/classified-compilation/20012238/index.html#a35">NIV Art. 35</a> erfüllt werden.</p>
 </ol>
-
-
 
 
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
@@ -178,7 +176,7 @@ Diese Dokumente müssen Details des Anlagenumfangs, welche durch den Bericht abg
 <dd>🗵 Phasenreihenfolge L1/L2/L3 (br/s/gr) eingehalten</dd>
 <dd>🗵 spannungsführende Teile abgedeckt! Öffnungen abgedichtet</dd>
 <dd>🗵 alle Plombiervorrichtungen vorhanden (Steuerklemmen etc.)</dd>
-<dt><b>Schutzmassnahmen</b> (Messungen siehe. Pos. 6)</dt>
+<dt><b>Schutzmassnahmen</b></dt>
 <dd>🗵 Fundamenterder erstellt und richtig angeschlossen</dd>
 <dd>🗵 Erdungsleitung ausgeführt und richtig angeschlossen</dd>
 <dd>🗵 Wassermesser, Ventile und dgl. überbrückt</dd>
@@ -240,22 +238,11 @@ Diese Dokumente müssen Details des Anlagenumfangs, welche durch den Bericht abg
   ⚠️ Reihenfolge beachten. <b>Ist R<sub>Iso</sub> PE-N schlecht, nicht weitermessen!</b> ⚠️</dd>
   <dt>Schutzleiterprüfung</dt>
   <dd>🗵 alle Schutzleiter richtig angeschlossen und auf Durchgang geprüft</dd>
-  
+
 </dl>
 
+Ganz unten [⬇](#hilfsmittel)  haben wir einige einfache Checklisten zum herunterladen.
 
-
-### Dokumentieren
-
-Hier haben wir zwei einfache Beispiele einer Checkliste für die Dokumentation der Erstprüfung.
-
-[Checkliste Erstprüfung Serviceauftrag](img/checkl-erstpr-service.pdf)
-
-[Checkliste Ertstprüfung EFH](img/checkl-erstpr-efh.pdf)
-
-Es ist natürlich auch möglich ein Mess- und Prüfprotokoll zu verwenden, wie sie bei der Schlusskontrolle eingesetzt werden.
-
-[Hier zum herunterladen bei electrosuisse](https://www.electrosuisse.ch/de/beratung-inspektionen/informationen/downloads.html)
 
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
 
@@ -684,5 +671,46 @@ Siehe auch info 2067a
 <li>p) Draufsicht und Seitenansicht der Bereiche mit Fadenmass</li>
 <li>⭕ Feste Wasseraustrittsstelle</li>
 </ol>
+
+<div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
+
+---
+### Hilfsmittel
+
+#### Vorlagen
+
+Hier haben wir zwei einfache Beispiele einer Checkliste für die Dokumentation der Erstprüfung.
+
+[Checkliste Erstprüfung Serviceauftrag](img/checkl-erstpr-service.pdf)
+
+[Checkliste Ertstprüfung EFH](img/checkl-erstpr-efh.pdf)
+
+Es ist natürlich auch möglich ein Mess- und Prüfprotokoll zu verwenden, wie sie bei der Schlusskontrolle eingesetzt werden.
+
+[Hier zum herunterladen bei electrosuisse](https://www.electrosuisse.ch/de/beratung-inspektionen/informationen/downloads.html)
+
+Oder mit dem [**Elektroform**](http://brunnerinformatik.ch/de/?Produkte:ElektroForm:ElektroForm_Installateur) der Firma Brunner Informatik.
+
+---
+
+#### Werkzeuge
+
+Für gute Arbeit braucht es auch entsprechende Werkzeuge.
+
+Wir haben mit der Firma Visco-Handel zwei Pakete zusammengestellt:
+
+[Classic](http://bit.ly/visco-classic)
+
+[Silver](http://bit.ly/visco-silver)
+
+
+Für Kursteilnehmer gibt es einen **Aktionspreis**.
+
+---
+### Kurse
+
+Wir bieten praxisnahe Kurse in Kleingruppen direkt auf Ihrer/einer Baustelle, denn wir sind überzeugt, dass  die Praxis das beste Labor ist.
+
+<a href="mailto:kurse@simon-gasser.ch?subject=Kurs Erstprüfung">Nehmen Sie gerne mit uns Kontakt auf</a>
 
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
