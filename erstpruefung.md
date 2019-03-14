@@ -706,13 +706,13 @@ Erstprüfungsset bestehend aus:
 * 1x Messleitung auf Haspel 40m
 * 1x Installationstester Telaris 100
 
-<nav id="">
+<div>
 <img src="img\rolle.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 
 <img src="img\proinstall-100.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" pending="30"/>
 
 <img src="img\duspol-analog.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
-</nav>
+</div>
 
 <a href="http://http://bit.ly/visco-silver"><strong>Silver</strong></a>
 
