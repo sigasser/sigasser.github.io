@@ -729,8 +729,8 @@ Für Kursteilnehmer gibt es einen **Aktionspreis**.
 ### Über Uns
 
 Diese Anleitung und die Checklisten wurden von [Simon Gasser](https://twitter.com/sigasser) von [simon gasser elektrokontrollen](https://simon-gasser.ch) erstellt.
-Zusammen mit Michael Mächler bieten wir auch  praxisnahe Kurse in Kleingruppen direkt auf Ihrer/einer Baustelle, denn wir sind überzeugt, dass  die Praxis das beste Labor ist.
+Zusammen mit <a href="mailto:michael@simon-gasser.ch?subject=Erstprüfung">Michael Mächler</a> bieten wir auch  praxisnahe Kurse in Kleingruppen direkt auf Ihrer/einer Baustelle, denn wir sind überzeugt, dass  die Praxis das beste Labor ist.
 
-Haben Sie Fragen, Anmerkungen oder möchten Sie uns für einen Kurs buchen, <a href="mailto:kurse@simon-gasser.ch?subject=Kurs Erstprüfung">schreiben Sie uns eine Email</a>
+Haben Sie Fragen, Anmerkungen oder möchten Sie uns für einen Kurs buchen, <a href="mailto:kurse@simon-gasser.ch?subject=Erstprüfung">schreiben Sie uns eine Email</a>
 
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
