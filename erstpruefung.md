@@ -1,14 +1,15 @@
 ---
 layout: page-erstpruefung
 title: Erstprüfung
-description: Eine praktische Anleitung
+description: Eine praktische Anleitung zur baubegleitenden Erstprüfung nach NIV Art. 24
 background: '/img/erstpr.jpg'
 permalink: /erstpruefung
 form: true
 ---
 
+
 # Einleitung
-In der _NIV (**N**iederspannungs **I**nstallations **V**erordnung) Artikel 24_ wird die Baubegleitende Erstprüfung gefordert und wie folgt beschrieben:
+In der [_NIV (**N**iederspannungs **I**nstallations **V**erordnung) Artikel 24_](https://www.admin.ch/opc/de/classified-compilation/20012238/index.html#a24) wird die Baubegleitende Erstprüfung gefordert und wie folgt beschrieben:
 
 >Baubegleitende Erstprüfung und betriebsinterne Schlusskontrolle
 
@@ -21,7 +22,7 @@ Hier mal nur soviel (Zitat aus NIN 2015 Compact):
 >**6.1.1. Allgemeines**
 >1. _Jede elektrische Anlage muss_, bevor sie vom Benutzer in Betrieb genommen wird, gemäss NIV Art. 24 während der Errichtung bzw. bei der Fertigstellung geprüft werden, um nachzuweisen, dass sie den sicherheitstechnischen Anforderungen entspricht.
 
->prüfen umfasst alle Tätigkeiten, mit denen festgestellt wird, ob die Ausführung der gesammten Anlageder NIN entspricht.
+>prüfen umfasst alle Tätigkeiten, mit denen festgestellt wird, ob die Ausführung der gesammten Anlage der NIN entspricht.
 
 >Sie beinhaltet:
 * die Sichtprüfung
@@ -38,13 +39,131 @@ Viele Schäden und (Fast-) Unfälle können verhindert werden.
 Und für uns ist es wie eine Versicherung:
 Wir haben die Kontrolle durchgeführt, die Werte sind in Ordnung, ich habe gute Arbeit geleistet.
 
-Genauso wie wir eine Wasserwaage ja nicht brauchen, um die Abdeckung gerade zu montieren, sondern um zu beweisen, dass wir ein super Auge haben 😉,
+Genauso wie wir eine Wasserwaage ja nicht brauchen, um die Abdeckung gerade zu montieren, sondern um zu beweisen, dass wir ein super Auge haben 😉,<br>
+so machen wir auch die Erstprüfung nur, um zu zeigen, dass wir ausgezeichnete Arbeit gemacht haben. Wäre ja auch schade, wenn das dann niemand merkt 👏.
 
-so machen wir die Erstprüfung nur, um zu zeigen, dass wir ausgezeichnete Arbeit gemacht haben. Wäre ja auch schade, wenn das dann niemand merkt 👏.
+<div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
 
-# Und was heisst das für uns in der Praxis?
+---
+# Und was heisst das konkret?
 
-## Ablauf der Erstprüfung Schritt für Schritt
+### Allgemeines
+
+<ol>
+  <li>Jede elektrische Anlage muss, bevor sie vom Benützer in Betrieb genommen wird, gemäss NIV (Art. 24) während der Errichtung bzw. bei Fertigstellung geprüft werden, um nachzuweisen, dass sie den sicherheitstechnischen Anforderungen entspricht.<br>
+  <i>also jede!</i></li>
+  <li>Für die Prüfung der Anlage müssen entsprechende Unterlagen zur Verfügung stehen, aus welchen Aufbau der Stromkreise, Raumart und Einteilung, Art der Schutzmassnahmen und dgl. ersichtlich sind.<br>
+  <blockquote>📜 <i>Schema, Legende, Installationsanzeige, Brandschutzkonzept, Bedienungsanleitungen, etc.</i></blockquote></li>
+  <li>Während der Prüfung müssen Vorsichtsmassnahmen getroffen werden, um eine Gefährdung von Personen, Nutztieren und Sachwerten auszuschliessen.<br />
+  <blockquote>💡 <em>Was passiert wenn wir ausschalten und messen? <br />
+  Licht, Lüftung, Lift, Alarmanlagen etc. und nicht vergessen die Messspannung! <br />
+  Ist alles Isoliert?</em></blockquote></li>
+  <li>Bei Erweiterung oder Änderung einer bereits bestehenden Anlage ist nachzuweisen, dass die Sicherheit der bestehenden Anlage nicht beeinträchtigt wird. <br />
+  <blockquote>🔌 <em>Das heisst, wenn wir z. B. ein Tableau auschwechseln, müssen wir in jedem Stromkreis eine Stichprobe machen.</em></blockquote></li>
+</ol>
+
+
+
+### Sichtprüfungen
+
+<ol>
+  <li>Die Sichtprüfung soll:
+  <ul>
+    <li>vor dem Erproben und Messen und</li>
+    <li>bevor die Anlage in Betrieb genommen wird und</li>
+    <li>vorzugsweise bei ausgeschalteter Anlage durchgeführt werden.</li>
+ </ul>
+ <p>Eine Sichtprüfung bedeutet eine Untersuchung mit allen Sinnen 👁️ 🐽 🐰 🖐️, um die richtige Auswahl und die ordnungsgemässe Errichtung der elektrischen Betriebsmittel (Installation) nachzuweisen.</p>
+  </li>
+
+  <li>Die Sichtprüfung ortsfest installierter Betriebsmittel muss nachweisen, dass die Installation unter anderem folgenden Anforderungen entspricht:</li>
+    <ul>
+      <li>Übereinstimmung mit den Sicherheitsanforderungen, z. B. Berührungsschutz gewährleistet, keine Beschädigungen und dgl.</li>
+      <li>☔ Korrekte Auswahl der Betriebsmittel entsprechend der Raumart</li>
+      <li>Vorhandensein der vorgeschriebenen Kenn- und Prüfzeichen</li>
+      <li>📜 Beachtung allfällig vom Hersteller mitgelieferter technischer Unterlagen</li>
+    </ul>
+  <li>In die Sichtprüfung sind ferner mindestens folgende Punkte einzubeziehen:</li>
+    <ol type="a">
+      <li>⚡ Anwendung von Schutzmassnahmen gegen elektrischen Schlag gemäss NIN 4.1</li>
+      <li>🔥 Vorhandensein von Brandabschottungen, Schutz gegen thermische Einwirkungen, Brandausbreitungen etc.</li>
+      <li>Auswahl der Leiter bezüglich der Strombelastbarkeit und Spannungsfall</li>
+      <li>Auswahl und Einstellung von Schutz- und Überwachungseinrichtungen</li>
+      <li>Auswahl und Anordnung von Trenn- und Schaltgeräten <br />
+      <blockquote><em>Anlagen, die nicht im selben Raum wie die Sciherungen sind, brauchen einen Serviceschalter, z. B. Wechselrichter von Photovoltaikanlagen</em></blockquote></li>
+      <li>Auswahl der Betriebsmittel und der Schutzmassnahmen entsprechend den äusseren Einflüssen</li>
+      <li>Kennzeichnung der Schutzleiter, PEN-Leiter und Neutralleiter</li>
+      <li>Vorhandensein von technischen Unterlagen, Schemata, Warn-, Verbotszeichen und anderen ähnlichen Informationen</li>
+      <li>Kennzeichnung der Stromkreise, Überstrom-Schutzeinrichtungen, Schalter, Klemmen etc.</li>
+      <li>Vorhandensein und richtige Verwendung von Schutzleitern, einschliesslich Schutz-Potenzialausgleichsleitern für den Schutz-Potenzialausgleich und den zusätzlichen Schutz-Potenzialausgleich</li>
+      <li>Leiterverbindungen bezüglich Schutz gegen Selbstlockerung, Bemessung und Anordnung <br />
+      <blockquote><em>Schrauben, die Teile verbinden, die dem Schutz-Potenzialausgleich dienen, müssen gegen Selbstlockerung geschütz sein.</em></blockquote></li>
+      <li>Leichte Zugänglichkeit der Betriebsmittel, die bedient und gewartet werden müssen.</li>
+
+    </ol>
+    <p>Die Sichtprüfung muss die besonderen Anforderungen für Anlagen oder Räume besonderer Art umfassen.<br />
+    <blockquote><em>Also sind für Landwirtschaft, Bad, Schwimmbad, Schreinerei, etc. die entsprechenden Normen (NIN Kap. 7) zu berücksichtigen.</em></blockquote></p>
+</ol>
+
+### Erproben und Messen
+
+#### 6.1.3.1 Allgemeines
+
+<ol>
+<li>
+    <p>Die nachstehenden Prüfungen und Messungen sind, sofern zutreffend, in jedem Fall durchzuführen, vorzugsweise in der folgenden Reihenfolge:</p>
+</li>
+<ul>
+  <li>Durchgängigkeit der Leiter, insbesondere die Leitfähigkeit des Schutzleiters, des Schutz-Potenzialausgleichsleiters und des zusätzlichen Schutz-Potenzialausgleichsleiters <br />
+  <blockquote><em>Mit der Kabelrolle und dem Messgerät. Einstellung R<sub>Lo.</sub><br />
+  Die Messwerte sollten &le; 1 &Omega; sein.</em></blockquote></li>
+  <li>Isolationswiderstand der elektrischen Anlage <br />
+  <blockquote><em>Vorzugsweise am Tableau messen. <br />
+  Messgleichspannung 50 V für die erste Messung, 500 V für die zweite Messung (ausser das Messgerät fährt bei der Messung die Spannung langsam hoch)<br />
+  Immer in folgender Reihenfolge messen: PE-N, PE-L1/L2/L3<br />
+  ⚠️ <b>Ist R<sub>Iso</sub> PE-N schlecht, nicht weitermessen!</b> ⚠️ <br />
+  Der Isolationswiderstand muss bei Neuanlagen &ge; 0.1 M&Omega; sein.</em></blockquote></li>
+  <li>Wirksamkeit des Schutzes durch SELV, PELV oder durch Schutztrennung</li>
+  <li>Widerstand/ Impedanz von isolierenden Fussböden und isolierenden Wänden</li>
+  <li>Schutz durch automatische Abschaltung der Stromversorgung<br />
+  <blockquote><em><strong>Kurzschlussstrommessung</strong><br />
+  Mit dieser Messung kann auf die Abschaltzeit geschlossen werden. <br />
+  Folgende Faustformel kann für Endstromkreise, es gelten &le; 0.4 s Abschaltzeit, angewendet werden: <br />
+  LSC &rarr; I<sub>K</sub> &ge; 15*I<sub>N</sub></em><br />
+  LSB &rarr; I<sub>K</sub> &ge; 7*I<sub>N</sub></em><br />
+  Für Verteilerstromkreise gelten eine Abschaltzeit von &le; 5 s, was ungefähr folgenden minimalen Kurzschlussstrom erfordert: <br />
+  LSD &rarr; I<sub>K</sub> &ge; 10*I<sub>N</sub></em><br />
+  LSC &rarr; I<sub>K</sub> &ge; 10*I<sub>N</sub></em><br />
+  Diazed &rarr; I<sub>K</sub> &ge; 6*I<sub>N</sub></em><br />
+  NH00 &rarr; I<sub>K</sub> &ge; 7*I<sub>N</sub></em><br />
+  Sind die Messwerte nahe bei diesen Grenzwerten, sind die Datenblätter der Hersteller zu konsultieren hier ein Beispiel für <a href="http://www.hager.ch/solr-suche/238159.htm?solr%5Bq%5D=ausl%C3%B6sekennlinie&navlang=de">Hager LS</a>
+</blockquote></li>
+  <li>zusätzlicher Schutz</li>
+  <li>Polarität (Anschluss von Steckdosen, Schalt- und Schutzeinrichtungen im Aussen-/ Neutralleiter)</li>
+  <li>Drehsinn/ Drehrichtung</li>
+  <li>Funktion und Betrieb</li>
+  <li>Spannungsfall</li>
+</ul>
+<p><b>👉 Wenn beim Erproben und Messen ein Fehler festgestellt wird, sind nach Behebung des Fehlers diese Prüfung und jede vorhergehende Prüfung, die durch den Fehler möglicherweise beeinflusst wurde, zu wiederholen.</b></p>
+<i><p><b>Anmerkung:</b></p>
+<p>Wenn die Prüfung in möglicherweise explosiver Atmosphäre durchgeführt wird, müssen Sicherheitsvorkehrungen gemäss EN 60079-17 und 61241-14 getroffen werden. (B+E)</p></i>
+</ol>
+
+
+
+
+### 6.1.4 Erstellen eines Prüfberichts über die Erstprüfung
+
+<ol>
+<li>Nach Beendigung der Prüfung einer neuen Anlage oder von Erweiterungen oder Änderungen in einer bestehenden Anlage muss ein Bericht inkl. Mess- und Prüfprotokoll erstellt werden. <br />
+Diese Dokumente müssen Details des Anlagenumfangs, welche durch den Bericht abgedeckt sind, zusammen mit einer Aufzeichnung über die Sichtprüfung und die Ergebnisse der Erprobungen und Messungen umfassen.</li>
+<p>Alle Fehler oder fehlende Teile, die während der Prüfung der Anlage erkannt werden, müssen korrigiert werden, bevor der Errichter der Anlage erklärt, dass diese Anlage die Anforderungen der Normen erfüllt.</p>
+<p>Im weiteren müssen die Anforderungen der [NIV Art. 35](https://www.admin.ch/opc/de/classified-compilation/20012238/index.html#a35) erfüllt werden.</p>
+</ol>
+
+
+
+
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
 
 ---
@@ -121,10 +240,24 @@ so machen wir die Erstprüfung nur, um zu zeigen, dass wir ausgezeichnete Arbeit
   ⚠️ Reihenfolge beachten. <b>Ist R<sub>Iso</sub> PE-N schlecht, nicht weitermessen!</b> ⚠️</dd>
   <dt>Schutzleiterprüfung</dt>
   <dd>🗵 alle Schutzleiter richtig angeschlossen und auf Durchgang geprüft</dd>
-  <dd>🗵 alle Schutzleiter richtig angeschlossen und auf Durchgang geprüft</dd>
+  
 </dl>
 
-  <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
+
+
+### Dokumentieren
+
+Hier haben wir zwei einfache Beispiele einer Checkliste für die Dokumentation der Erstprüfung.
+
+[Checkliste Erstprüfung Serviceauftrag](img/checkl-erstpr-service.pdf)
+
+[Checkliste Ertstprüfung EFH](img/checkl-erstpr-efh.pdf)
+
+Es ist natürlich auch möglich ein Mess- und Prüfprotokoll zu verwenden, wie sie bei der Schlusskontrolle eingesetzt werden.
+
+[Hier zum herunterladen bei electrosuisse](https://www.electrosuisse.ch/de/beratung-inspektionen/informationen/downloads.html)
+
+<div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
 
 ---
 
@@ -512,22 +645,44 @@ Siehe auch info 2067a
 
 ![Fig. 7.01.3.0.1.1 Allgemein: Abmessungen der Bereiche 0, 1 und 2 in Räumen mit Badewannen](img/Badewanne1.png)
 
-<ol type="a">
-<li>Seitenansicht, Bad</li>
-<li>Draufsicht, Bad</li>
-<li>Draufsicht (mit fest angebrachter Abtrennung und Radius für Mindestabstand beim Greifen um die Abtrennung herum)</li>
-<li>Draufsicht (mit Speigelschrank im Bereich 2)</li>
+<ol style="list-style-type: none;">
+<li>a) Seitenansicht, Bad</li>
+<li>b) Draufsicht, Bad</li>
+<li>c) Draufsicht (mit fest angebrachter Abtrennung und Radius für Mindestabstand beim Greifen um die Abtrennung herum)</li>
+<li>f) Draufsicht (mit Speigelschrank im Bereich 2)</li>
 </ol>
-<ol>
-<li>Feste Abtrennung</li>
-<li>Fadenmass für Umgreifen</li>
-<li>Spiegelschrank im Bereich 2 - Fadenmass für Umgreifen der Schranktüre</li>
+<ol style="list-style-type: none;">
+<li>1) Feste Abtrennung</li>
+<li>2) Fadenmass für Umgreifen</li>
+<li>3) Spiegelschrank im Bereich 2 - Fadenmass für Umgreifen der Schranktüre</li>
 </ol>
 
 
 ![Fig. 7.01.3.0.1.2 Duschen ohne Wanne in Garderoben von Sportanlagen etc.: Abmessungen des Bereichs 1](img/Badewanne2.png)
 
+<ol style="list-style-type: none;">
+<li>d) Seitenansicht ohne Abtrennung</li>
+<li>e) Seitenansicht (mit fest angebrachter Abtrennung und Radius für den Mindestabstand beim Greifen über die Abtrennung)</li>
+</ol>
+<ol style="list-style-type: none;">
+<li>1) Feste Abtrennung</li>
+<li>2) Fadenmass für Umgreifen</li>
 
+</ol>
 
+![Fig. 7.01.3.0.1.4 Duschen in Wohnbauten](img/Badewanne3.png)
 
-# Checklisten
+![](img/Badewanne4.png)
+
+<ol style="list-style-type: none;">
+<li>k) Draufsicht ohne Abtrennung</li>
+<li>l) Draufsicht mit Abtrennung</li>
+<li>l) Draufsicht mit Abtrennung</li>
+<li>m) Draufsicht mit Glasabtrennung</li>
+<li>n) Draufsicht mit Abtrennung und Spiegelschrank</li>
+<li>o) Seitenansicht mit Abtrennung und Spiegelschrank</li>
+<li>p) Draufsicht und Seitenansicht der Bereiche mit Fadenmass</li>
+<li>⭕ Feste Wasseraustrittsstelle</li>
+</ol>
+
+<div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
