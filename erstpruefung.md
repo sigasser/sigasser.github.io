@@ -705,9 +705,9 @@ Wir arbeiten mit der Firma Visco-Handel zusammen. Die selbe Ausrüstung, die wir
 <ul>
 <li>1x Messleitung auf Haspel 40m</li>
 <li>1x Installationstester Telaris 100</li>
-</div>
 </ul>
 </p>
+</div>
 <div>
 <img src="img\rolle.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 
@@ -718,7 +718,6 @@ Wir arbeiten mit der Firma Visco-Handel zusammen. Die selbe Ausrüstung, die wir
 <div>
 
 <p><a href="http://bit.ly/visco-silver"><strong>Silver</strong></a></p>
-
 
 <p>Erstprüfungsset bestehend aus:
 <ul>
