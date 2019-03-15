@@ -45,7 +45,7 @@ so machen wir auch die Erstprüfung nur, um zu zeigen, dass wir ausgezeichnete A
 <div style="text-align: right"><a href="#">Zurück nach oben ⬆️</a> </div>
 
 ---
-# Und was heisst das konkret?
+# Und was heisst das konkret
 
 ### Allgemeines
 
@@ -699,27 +699,33 @@ Für gute Arbeit braucht es auch entsprechende Werkzeuge.
 Wir arbeiten mit der Firma Visco-Handel zusammen. Die selbe Ausrüstung, die wir auch einsetzen, haben wir für euch in  zwei Paketen zusammengestellt:
 
 <div>
-<a href="http://bit.ly/visco-classic"><strong>Classic</strong></a>
+<p><a href="http://bit.ly/visco-classic"><strong>Classic</strong></a></p>
 
-Erstprüfungsset bestehend aus:
-* 1x Messleitung auf Haspel 40m
-* 1x Installationstester Telaris 100
+<p>Erstprüfungsset bestehend aus:
+<ul>
+<li>1x Messleitung auf Haspel 40m</li>
+<li>1x Installationstester Telaris 100</li>
 </div>
+</ul>
+</p>
 <div>
 <img src="img\rolle.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 
-<img src="img\proinstall-100.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" pending="30"/>
+<img src="img\proinstall-100.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" pending=""/>
 
 <img src="img\duspol-analog.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 </div>
 <div>
-<a href="http://bit.ly/visco-silver"><strong>Silver</strong></a>
+
+<p><a href="http://bit.ly/visco-silver"><strong>Silver</strong></a></p>
 
 
-Erstprüfungsset bestehend aus:
-* 1x Messleitung auf Haspel 40m
-* 1x Installationstester Telaris 100
-* 1x Spannungsprüfer AC/ DC 12-1000V
+<p>Erstprüfungsset bestehend aus:
+<ul>
+<li>1x Messleitung auf Haspel 40m</li>
+<li>1x Installationstester Telaris 100</li>
+<li>1x Spannungsprüfer AC/ DC 12-1000V</li>
+</ul></p>
 </div>
 
 Für Kursteilnehmer gibt es einen **Aktionspreis**.
