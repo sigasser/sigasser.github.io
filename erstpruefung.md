@@ -709,11 +709,9 @@ Wir arbeiten mit der Firma Visco-Handel zusammen. Die selbe Ausrüstung, die wir
 </p>
 </div>
 <div>
-<img src="img\rolle.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 
-<img src="img\proinstall-100.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" pending=""/>
+<img src="img\proinstall-100.jpg" alt="Telaris 100" width="60%" height="" border="none" align="center" pending=""/>
 
-<img src="img\duspol-analog.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 </div>
 <div>
 
