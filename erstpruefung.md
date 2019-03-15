@@ -698,14 +698,13 @@ Oder mit dem [**Elektroform**](http://brunnerinformatik.ch/de/?Produkte:ElektroF
 Für gute Arbeit braucht es auch entsprechende Werkzeuge.
 Wir arbeiten mit der Firma Visco-Handel zusammen. Die selbe Ausrüstung, die wir auch einsetzen, haben wir für euch in  zwei Paketen zusammengestellt:
 
-
-[**Classic**](http://bit.ly/visco-classic)
-
+<div>
+<a href="http://bit.ly/visco-classic"><strong>Classic</strong></a>
 
 Erstprüfungsset bestehend aus:
 * 1x Messleitung auf Haspel 40m
 * 1x Installationstester Telaris 100
-
+</div>
 <div>
 <img src="img\rolle.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 
@@ -713,15 +712,15 @@ Erstprüfungsset bestehend aus:
 
 <img src="img\duspol-analog.jpg" alt="Telaris 100" width="" height="150" border="none" align="left" />
 </div>
-
-<a href="http://http://bit.ly/visco-silver"><strong>Silver</strong></a>
-
+<div>
+<a href="http://bit.ly/visco-silver"><strong>Silver</strong></a>
 
 
 Erstprüfungsset bestehend aus:
 * 1x Messleitung auf Haspel 40m
 * 1x Installationstester Telaris 100
 * 1x Spannungsprüfer AC/ DC 12-1000V
+</div>
 
 Für Kursteilnehmer gibt es einen **Aktionspreis**.
 
